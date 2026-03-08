@@ -1,0 +1,6 @@
+[submodule "aircard-mobile"]
+	path = aircard-mobile
+	url = https://github.com/jpagcal/aircard-mobile.git
+[submodule "aircard-server"]
+	path = aircard-server
+	url = https://github.com/jpagcal/aircard-server.git

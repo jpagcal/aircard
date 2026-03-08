@@ -1,0 +1,4 @@
+*.sql
+.DS_Store
+server/
+mobile/
